@@ -1,6 +1,6 @@
+# **LxaNce🤴👸**
 # Office365
-# **Office365**
-#1.Manual method
+# 1.Manual method
 Time needed: 1 minute.
 
 Manually activate your Office 365 using KMS client key.
