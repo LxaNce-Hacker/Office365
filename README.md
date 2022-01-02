@@ -1,4 +1,4 @@
-# Office365 #LxaNce👸🤴
+#LxaNce👸🤴(Office365)
 #1.Manual method
 Time needed: 1 minute.
 
@@ -10,8 +10,8 @@ open cmd with admin rights - Legal way to use Office 365 totally FREE, without p
 
 Navigate to your Office folder.
 If you install your Office in the ProgramFiles folder, the path will be “%ProgramFiles%\Microsoft Office\Office16” or “%ProgramFiles(x86)%\Microsoft Office\Office16”. It depends on the architecture of the Windows OS you are using. If you are not sure of this issue, don’t worry, just run both of the commands above. One of them will be not executed and an error message will be printed on the screen.
-*```cd /d %ProgramFiles%\Microsoft Office\Office16```
-*```cd /d %ProgramFiles(x86)%\Microsoft Office\Office16```
+```*cd /d %ProgramFiles%\Microsoft Office\Office16```
+```*cd /d %ProgramFiles(x86)%\Microsoft Office\Office16```
 
 activate office 2019 using manual method kms 1 - Legal way to use Office 365 totally FREE, without paying a dime
 
