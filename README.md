@@ -137,3 +137,28 @@ Successfully activate Office 365
 I only test this method with Office 365 ProPlus version. I am not sure it will work with the others.
 # Step 3 
 >is flagged “important” because the UAC system will stop this process if you don’t do it.
+
+
+# Renew Microsoft Office license
+**Step 1:** Open command prompt as administrator.
+
+**Step 2:** Copy and run the command below. Note: “Office16” is code name of Office 2016. If you are using Office 2013/2010, just replace it with “Office15” and “Office14”.
+
+
+ 
+```cscript "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" /act```
+If you see an error, try this command.
+
+```cscript "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" /act```
+Renew Office trial license
+Done!
+
+# Renew Microsoft Windows license
+**Step 1:** Open command prompt as administrator.
+
+**Step 2:** Execute this command.
+
+
+ 
+```cscript slmgr.vbs /ato```
+Your license is renewed successfully!
