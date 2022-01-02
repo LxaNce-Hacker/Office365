@@ -118,3 +118,22 @@ echo ===========================================================================
 echo ============================================================================&echo.&echo Sorry, the server is busy and can't respond to your request. Please try again.&echo.
 :halt
 pause >nul]
+
+
+# Step 2: 
+>Save it as a batch file. (eg. office365.cmd).
+
+Save the text file
+Set name of the batch file
+# Step 3: 
+>Run the batch file with admin rights. (important!).
+
+Run the batch file as admin
+Done! Your Office is activated successfully.
+
+Successfully activate Office 365
+# Note:
+
+I only test this method with Office 365 ProPlus version. I am not sure it will work with the others.
+# Step 3 
+>is flagged “important” because the UAC system will stop this process if you don’t do it.
